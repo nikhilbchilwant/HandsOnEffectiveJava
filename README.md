@@ -1,5 +1,7 @@
 # Hands-On Effective Java: Learning by Refactoring
 
+**Disclaimer:** This repository contains code, documentation, and/or other content that was generated, processed, or assisted by an artificial intelligence (AI) model (Claude Opus 4.5).
+
 [![Java Version](https://img.shields.io/badge/Java-17+-blue.svg)](https://openjdk.java.net/)
 [![Build](https://img.shields.io/badge/Build-Maven-green.svg)](https://maven.apache.org/)
 
